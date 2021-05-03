@@ -22,4 +22,9 @@
   color:darkturquoise;
   font-family:courier;
   text-align:center;
+  margin: 30px;
+  border: 1px solid darkturquoise;
+}
+#ind {
+  font-size:120%;
 }
